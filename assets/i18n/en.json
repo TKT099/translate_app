@@ -1,0 +1,22 @@
+{
+    "appbar": { 
+        "title": "Welcome to Language app"
+
+    },
+
+    "language": 
+	{
+		"name": 
+		{
+			"en": "English",
+			"es": "Spanish"
+		},
+        "dialog_title": "Language",
+		"selected_message": "Currently selected language is {language}",
+		"selection": 
+		{
+			"message": "Please select a language from the list",
+			"title": "Language Selection"
+		}
+	}
+}
